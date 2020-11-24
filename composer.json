@@ -1,0 +1,19 @@
+{
+	"keywords" : [
+		"wordpress",
+		"plugin",
+		"eclipse",
+		"che"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Ethos Engine\\Che-wp-stack-placeholder-plugin\\" : "src"
+		}
+	},
+	"name" : "Ethos Engine/che-wp-stack-placeholder-plugin",
+	"type" : "wordpress-plugin",
+	"description" : "A placeholder plugin for a project template.",
+	"require" : {
+		"php" : ">=7.4"
+	}
+}
